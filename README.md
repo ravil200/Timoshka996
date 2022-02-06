@@ -34,7 +34,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-121112.svg?style=for-the-badge&logo=Facebook&logoColor=)](https://www.facebook.com/profile.php?id=100028656152087)
 [![Telegram](https://img.shields.io/badge/Telegram-121112.svg?style=for-the-badge&logo=telegram&logoColor=74F33E)](https://t.me/TimOshkiN28)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timoshka996&show_icons=true&&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Timoshka996 GitHub stats](https://github-readme-stats.vercel.app/api?username=Timoshka996&show_icons=true&&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timoshka996&layout=compact)](https://github.com/Timoshka996/github-readme-stats)
