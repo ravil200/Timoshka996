@@ -18,13 +18,8 @@
 ![sql](https://img.shields.io/badge/-sql-1C0932?style=for-the-badge&logo=mysql&logoColor=74F33E)
 ![Postgres](https://img.shields.io/badge/postgres-1C0932.svg?style=for-the-badge&logo=postgresql&logoColor=74F33E)
 
-![Canva](https://img.shields.io/badge/Canva-1C0932.svg?style=for-the-badge&logo=Canva&logoColor=74F33E)
-![LeetCode](https://img.shields.io/badge/LeetCode-1C0932?style=for-the-badge&logo=LeetCode&logoColor=74F33E)
-![Codewars](https://img.shields.io/badge/Codewars-1C0932?style=for-the-badge&logo=codewars&logoColor=74F33E)
-
-![Debian](https://img.shields.io/badge/Debian-1C0932?style=for-the-badge&logo=debian&logoColor=74F33E)
 ![Kali](https://img.shields.io/badge/Kali-1C0932?style=for-the-badge&logo=kalilinux&logoColor=74F33E)
-![HTML5](https://img.shields.io/badge/html5-1C0932.svg?style=for-the-badge&logo=html5&logoColor=74F33E)
+
 
 
 ### Follow me
