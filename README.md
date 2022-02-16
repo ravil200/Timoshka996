@@ -18,7 +18,7 @@
 ![sql](https://img.shields.io/badge/-sql-1C0932?style=for-the-badge&logo=mysql&logoColor=74F33E)
 ![Postgres](https://img.shields.io/badge/postgres-1C0932.svg?style=for-the-badge&logo=postgresql&logoColor=74F33E)
 
-![Kali](https://img.shields.io/badge/Kali-1C0932?style=for-the-badge&logo=kalilinux&logoColor=74F33E)
+
 
 
 
